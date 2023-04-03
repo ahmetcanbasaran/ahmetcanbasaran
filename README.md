@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ahmet Can<br>💫 About Me:<br><br>🧑‍💻  I am a senior computer engineering student from Istanbul/Turkey<br>🔭 I’m currently improving my data science skills<br>🌱 In these days I'm learning machine learning and Flutter.  I would like to be ML engineer but aslo ı like to do side project with Flutter<br>👨🏽‍🍳  Cooking + Coffee + Talking about cuisine = ME<br>💬 Ask me about Python, Machine Learning, Flutter <br>📫 How to reach me ahmetcanbasaran22@gmail.com
+Hi 👋, I'm Ahmet Can<br>💫 About Me:<br><br>🧑‍💻  I am a senior computer engineering student from Istanbul/Turkey<br>🔭 I’m currently improving my data science skills<br>🌱 In these days I'm learning machine learning and Flutter.  I would like to be ML engineer aslo ı like to do side project with Flutter<br>👨🏽‍🍳  Cooking + Coffee + Talking about cuisine = ME<br>💬 Ask me about Python, Machine Learning, Flutter <br>📫 How to reach me ahmetcanbasaran22@gmail.com
 
 
 ## 🌐 Socials:
